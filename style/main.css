@@ -319,11 +319,11 @@ hr {
     background: #DCD08D;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #df0a0a;
-    background: #f2b179; }
-  .tile.tile-16 .tile-inner {
     color: #ffffff;
-    background: #f59563; }
+    background: #df0a0a; }
+  .tile.tile-16 .tile-inner {
+    color: #df0a0a;
+    background: #ffffff; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
